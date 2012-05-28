@@ -6,3 +6,4 @@
 ?-small-practice.out
 ?-large-practice.in
 ?-large-practice.out
+*.pyc
